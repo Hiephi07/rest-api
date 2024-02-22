@@ -1,0 +1,16 @@
+{
+    "name": "tranquanghiep/udemy_rest-api",
+    "description": "build project with rest-api",
+    "autoload": {
+        "psr-4": {
+            "V1\\": "v1/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hiephi07",
+            "email": "hiep40295@gmail.com"
+        }
+    ],
+    "require": {}
+}
